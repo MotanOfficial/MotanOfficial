@@ -1,25 +1,40 @@
-<div align="center">
-  <h1> Motan </h1>
-  <img src="http://img.shields.io/badge/Furrs%20Kissed-1448-blue" alt=""/>
-  <img src="http://img.shields.io/badge/Code%20Time-876%2C445%20hrs%2016%20mins-blue" alt=""/>
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100%20Million%20lines%20of%20code-blue" alt=""/>
+<h1 align="center">Hi there, I'm MotanOfficial 👋</h1>
+<h3 align="center">Developer at Frostwhisk, with a passion for digital art.</h3>
 
-### :fire: My Stats :
+<p align="center">
+  <img width="500" alt="GitHub Metrics" src="https://raw.githubusercontent.com/MotanOfficial/MotanOfficial/main/github-metrics.svg">
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MotanOfficial&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  🔭 Currently working on <strong>Frostwhisk</strong><br/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotanOfficial&hide=contribs,prs)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotanOfficial&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ### :hammer_and_wrench: Languages and Tools :
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows 12" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Androd 13" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
+<p align="center">
+  <a href="https://github.com/MotanOfficial?tab=repositories" target="_blank"><img alt="Repositories" src="https://img.shields.io/badge/-Repositories-000000?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/MotanOfficial?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+  <a href="https://github.com/MotanOfficial?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
+  <a href="https://github.com/MotanOfficial?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+  <a href="https://github.com/MotanOfficial?tab=repositories&language=shell" target="_blank"><img alt="Shell" src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/MotanOfficial" target="_blank"><img alt="Profile Visits" src="https://badges.pufler.dev/visits/cathie02/cathie02?logo=GitHub&label=Profile%20Visits&color=success&logoColor=white&style=flat-square"/></a>
+  <a href="https://github.com/MotanOfficial/MotanOfficial" target="_blank"><img alt="Profile Updated" src="https://img.shields.io/github/last-commit/MotanOfficial/MotanOfficial?label=Profile%20Updated&style=flat-square"></a>
+</p>
+
+<details>
+<summary>GitHub Stats</summary>
+<p align="center">
+  <img alt="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=cathie02&">
+  <br>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MotanOfficial&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+  <br>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotanOfficial&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+  <br>
+  <a href="https://discord.com/users/744905146584006687">
+    <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/597349889739063326" style="display:block; margin:auto;">
+  </a>
+</p>
+</details>
