@@ -400,7 +400,7 @@ I'm always interested in connecting with developers, engineers, cybersecurity pr
   </a>
 </p>
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sebastianadrian/)
+- **LinkedIn:** [linkedin.com/in/sebastianadrian](https://www.linkedin.com/in/sebastianadrian/)
 - **S3rpent:** [github.com/MotanOfficial](https://github.com/MotanOfficial)
 - **Company:** [KiwiDefence](https://kiwidefence.com)
 
